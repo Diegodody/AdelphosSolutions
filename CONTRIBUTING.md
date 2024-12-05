@@ -1,4 +1,4 @@
-# Contribuindo para o MegaEventApi
+# Contribuindo para a Adelphos Soluções
 
 Obrigado por se interessar em contribuir para o MegaEventApi! Este guia irá orientá-lo durante todo o processo de contribuição, ajudando a garantir que as mudanças sejam feitas de maneira eficiente e organizada.
 
@@ -7,15 +7,15 @@ Obrigado por se interessar em contribuir para o MegaEventApi! Este guia irá ori
 
 Para começar a contribuir, faça o fork do repositório para sua conta do GitHub:
 
-    Acesse o repositório: MegaEventApi.
+    Acesse o repositório: AdelphosSolutions.
     Clique no botão Fork no canto superior direito.
 
 2. Clone o Repositório
 
 Clone o repositório forkado para sua máquina local:
 
-git clone https://github.com/SeuUsuario/MegaEventApi.git
-cd MegaEventApi
+git clone https://github.com/SeuUsuario/AdelphosSolutions.git
+cd AdelphosSolutions
 
 3. Crie uma Branch para Sua Alteração
 
