@@ -1,24 +1,22 @@
-# 🎉 API para Organização de Eventos
+# 🎉 Adelphos Soluções
 
 ## 📖 Descrição do Projeto
-A **API para Organização de Eventos** foi desenvolvida para facilitar o gerenciamento de eventos. Com ela, os usuários podem:
+A **Adelphos Soluções** foi desenvolvida para facilitar o gerenciamento de eventos. Com ela, os usuários podem:
 c Inscrever-se em eventos.
 - Visualizar detalhes completos dos eventos.
 - Receber notificações sobre atividades relacionadas.
 
 A API e sua interface web são **conteinerizadas**, garantindo uma implantação simplificada e fácil manutenção.
 
-Metolodogia Kanban: https://trello.com/invite/b/674b165e7aecbe81fc6bce03/ATTI778e155a14a9f789375504141c5c2b84E541F389/api-de-gestao-de-eventos-e-inscricoes
+Metolodogia Kanban: https://trello.com/b/Z5DnJtXE
 
 ---
 
 ## 📖 Autores
 
-- Alesson Calaça [@alessoncalassa](https://github.com/ale-calassa) - 01378540 - Desenvolvedor Front-End
+- Alesson Calaça [@alessoncalassa](https://github.com/ale-calassa) - 01378540 - Desenvolvedor Front-End e Back-End
 
 - Diego Lima [@Diegodody](https://github.com/Diegodody) - 01401412 - Documentador
-
-- Luiz Pereira [@Luiz-Pereira](https://github.com/Luiz-Pereira-Lucena) - 01170935 - Desenvolvedor Back-End
 
 - Gilvanelson Nascimento [@Gilvanelson](https://github.com/Gilvanelson) - 01395387 - Scrum Master
 
@@ -110,7 +108,7 @@ Siga os passos abaixo para clonar e configurar o projeto:
 git clone https://github.com/Diegodody/MegaEventApi.git
 
 # Acesse o diretório do projeto
-cd MegaEventAPI
+cd AdelphosSolutions
 
 # Construa e inicie os containers com Docker
 docker-compose up --build
