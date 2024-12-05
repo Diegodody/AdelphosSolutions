@@ -1,7 +1,7 @@
 # 🎉 Adelphos Soluções
 
 ## 📖 Descrição do Projeto
-A **Adelphos Soluções** foi desenvolvida para facilitar o gerenciamento de eventos. Com ela, os usuários podem:
+ **Adelphos Soluções** foi desenvolvida para facilitar o gerenciamento de eventos. Com ela, os usuários podem:
 c Inscrever-se em eventos.
 - Visualizar detalhes completos dos eventos.
 - Receber notificações sobre atividades relacionadas.
