@@ -1,0 +1,81 @@
+.container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(136, 177, 177);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+}
+
+.div_img {
+    text-align: center;
+}
+
+.div_img img {
+    max-width: 80%;
+    height: auto;
+    text-align: center;
+}
+
+.div_form form{
+    background-color: rgba(209, 209, 209, 0.8);
+    padding: 40px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.div_label {
+    margin-bottom: 25px;
+}
+
+.div_label label {
+    display: block;
+    margin-bottom: 5px;
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.div_label input, .div_label select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.div_label select {
+    appearance: none;
+    background-color: #f9f9f9;
+}
+
+/* Estilos do botão */
+.button_cadastro {
+    display: flex;
+    justify-content: center;
+}
+
+.button_cadastro button {
+    background-color: #007bff;
+    color: white;
+    padding:3px 10px;
+    margin: 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 19px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button_cadastro button:hover {
+    background-color: #0536a0;
+}

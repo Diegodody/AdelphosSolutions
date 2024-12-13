@@ -1,0 +1,133 @@
+.div_principal{
+    min-height: 75vh;
+    background-image: url(../../../public/images/img_login.png);
+    background-position: center;
+    box-sizing: border-box;
+    text-shadow: black 1px 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    width: 450px;
+    background-color: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+}
+
+.input_field{
+    position: relative;
+    width: 100%;
+    height: 30px;
+    margin: 30px auto;
+}
+
+.input_field input {
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    font-size: 16px;
+    color: rgb(5, 5, 27);
+    padding: 10px 25px;
+}
+
+.input_field input::placeholder{
+    color: darkblue;
+}
+
+.input_field .icon {
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    color: rgb(5, 2, 34);
+}
+
+.recallForget {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin: -15px 0 15px;
+}
+
+.recallForget label {
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+
+.recallForget input {
+    margin-right: 5px;
+    
+}
+
+.recallForget a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.recallForget a:hover{
+    text-decoration: underline;
+    color: rgb(1, 1, 95);
+}
+
+error {
+    color: red;
+    font-size: 0.9em;
+    
+  }
+
+.div_button {
+    text-align: center;
+    margin: 15px;
+}
+
+button{
+    width: 60%;
+    height: 40px;
+    color: rgb(0, 0, 94);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    text-shadow: none;
+}
+
+section {
+    margin: 20px 0 10px;
+    justify-content: space-between;
+}
+
+.div_cadastro a {
+    font-size: 15px;
+    text-align: center;
+    margin: 20px 0 10px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.pg_cadastro {
+    color: rgb(255, 255, 255);
+    margin: 20px 0 10px;
+}
+
+.div_cadastro a:hover{
+    text-decoration: underline;
+    color: rgb(20, 20, 235);
+}

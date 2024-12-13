@@ -1,0 +1,137 @@
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(158, 189, 189);
+    background-image: url("/public/images/Doacao.jpg");
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 1px;
+}
+
+.title {
+    color: white;
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+
+.container form {
+    width: 95%;
+    max-width: 100%;
+    height: auto;
+    background-color: rgba(209, 209, 209, 0.8);
+    border: 2px solid rgba(118, 118, 118, 0.2);
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 8px;
+    color: black;
+}
+
+.div_label {
+    font-size: 25px;
+    font-weight: bolder;
+    width: 50%;
+    height: 30px;
+    margin: 20px auto;
+    margin-bottom: 40px;
+    padding: 0;
+}
+
+.div_label input {
+    width: 100%;
+    height: 35px;
+    padding: 4px 9px;
+    outline: none;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    font-size: 18px;
+    color: rgb(5, 5, 27);
+    text-align: center;
+    
+}
+
+.title_payment {
+    color: black;
+    margin: 0.1em;
+    padding: 0.2em;
+    font-size: 25px;
+}
+
+.payment_choise label {
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+
+.payment_choise input {
+    width: 4%;
+    height: 20px;
+    margin: 0.3em;
+    
+}
+
+.div_btn button {
+    width: 30%;
+    height: 40px;
+    margin: 15px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    font-size: 20px;
+    text-shadow: none;
+    letter-spacing: 2px;
+}
+
+button:hover{
+    color: white;
+    background-color: blue;
+}
+
+.title_card {
+    color: black;
+    margin: 0.1em;
+    padding: 0.2em;
+    font-size: 25px;
+}
+
+.div_card label {
+    font-size: 20px;
+    font-weight: bolder;
+    width: 100%;
+    height: 25px;
+    margin: 30px auto;
+    margin-bottom: 40px;
+    align-items: center;
+    letter-spacing: 1px;
+}
+
+.div_card .cvv_label{
+    padding: 3.5em;
+}
+
+.div_card .card_label{
+    padding: 0.5em;
+}
+
+.div_card input {
+    width: 40%;
+    height: 30px;
+    padding: 4px 9px;
+    outline: none;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    color: rgb(5, 5, 27);
+    text-align: center;
+    align-items: center;
+}
+
+

@@ -1,0 +1,119 @@
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\appsettings.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.staticwebassets.endpoints.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.exe
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.deps.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.runtimeconfig.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.pdb
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.csproj.AssemblyReference.cache
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.AssemblyInfoInputs.cache
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.AssemblyInfo.cs
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\scopedcss\bundle\OrganizationOfCompanies.API.styles.css
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.OrganizationOfCompanies.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.OrganizationOfCompanies.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.build.OrganizationOfCompanies.API.props
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrganizationOfCompanies.API.props
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrganizationOfCompanies.API.props
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\Organiza.8472111C.Up2Date
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\refint\OrganizationOfCompanies.API.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.pdb
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.genruntimeconfig.cache
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\ref\OrganizationOfCompanies.API.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\luizp\source\Repos\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\appsettings.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.staticwebassets.endpoints.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.exe
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.deps.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.runtimeconfig.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\OrganizationOfCompanies.API.pdb
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Humanizer.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.csproj.AssemblyReference.cache
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.AssemblyInfoInputs.cache
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.AssemblyInfo.cs
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.csproj.CoreCompileInputs.cache
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.sourcelink.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\scopedcss\bundle\OrganizationOfCompanies.API.styles.css
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.OrganizationOfCompanies.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.OrganizationOfCompanies.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.build.OrganizationOfCompanies.API.props
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OrganizationOfCompanies.API.props
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OrganizationOfCompanies.API.props
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\Organiza.8472111C.Up2Date
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\refint\OrganizationOfCompanies.API.dll
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.pdb
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\OrganizationOfCompanies.API.genruntimeconfig.cache
+C:\Users\luizp\Downloads\Api - Sistemas Distribuidos\MegaEventApi\OrganizationOfCompanies.API\OrganizationOfCompanies.API\obj\Debug\net8.0\ref\OrganizationOfCompanies.API.dll

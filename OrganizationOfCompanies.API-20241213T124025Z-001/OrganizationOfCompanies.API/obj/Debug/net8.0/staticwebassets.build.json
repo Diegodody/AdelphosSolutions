@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Z2P2WPxHIrYJLePbORp08xt/oy5pPvc3SDtA3/u4p0Q=",
+  "Source": "OrganizationOfCompanies.API",
+  "BasePath": "_content/OrganizationOfCompanies.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

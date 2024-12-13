@@ -1,0 +1,39 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(2, 0, 26);
+    padding: 1em;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    left: 0;
+    top: 0;
+    
+}
+
+p {
+    color: #FFF;
+    
+}
+img {
+    color: #FFF;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item {
+    margin-right: 1em;
+}
+
+.item a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+item a:hover {
+    color: aquamarine;
+}
